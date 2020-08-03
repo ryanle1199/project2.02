@@ -1,0 +1,42 @@
+ul {
+    list-style-type: none;
+    color: lightcoral;
+}
+
+
+.main-nav {
+    display: flex;
+    background: darkolivegreen;
+    justify-content: space-between;
+    text-decoration: none;
+    color: lightcoral;
+}
+
+.sub-nav {
+    display: flex;
+}
+
+.full-width {
+    display: none;
+}
+.short-width {
+    display: flex;
+}
+
+.nav-list {
+    display: flex;
+    flex-direction: row;
+    padding: 12px;
+    border-right: orange;
+}
+
+.company-name {
+    color: purple;
+    font-size: x-large;
+    font-family: cursive;
+}
+
+.credit-offer {
+    display: flex;
+    justify-content: flex-end;
+}

@@ -1,0 +1,23 @@
+footer {
+    display: flex;
+    flex-direction: row;
+    background-color: #255;
+    padding: 18px;
+}
+
+section {
+    margin-right: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  
+}
+
+h2 {
+    border-bottom: white;
+    padding: 5px;
+    margin-bottom: 5px;
+    font-size: small;
+    letter-spacing: 3px;
+}
